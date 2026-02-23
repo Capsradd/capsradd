@@ -10,4 +10,10 @@ I am currently studying computer science at Djuanda University <br>My focus now 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,tailwind,cloudflare)](https://skillicons.dev)
 
 ## Currently Learning
-[![lern](https://skillicons.dev/icons?i=react,laravel,js,ts,vite,bun)](https://skillicons.dev)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <img src="./elysia-logo.svg" height="48" />
+    <img src="https://skillicons.dev/icons?i=laravel,js,ts,vite,bun" />
+  </a>
+</p>
