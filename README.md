@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./banner_new.png)
 
 ## About Me
 I am currently studying computer science at Djuanda University <br>My focus now is developing and designing websites, even though I'm not very good at it yet.
